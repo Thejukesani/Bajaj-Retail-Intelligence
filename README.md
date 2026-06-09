@@ -73,7 +73,7 @@ Inventory Planning: Category-level sell-through data supports smarter stock repl
 
 6. Screenshots / Demos
 
-📌
+📌https://github.com/Thejukesani/Bajaj-Retail-Intelligence/blob/main/Screenshot%202026-06-09%20131705.png
 
 ViewDescriptionoverview_page.pngMain KPI banner and summary dashboardregional_map.pngGeographic store performance mapproduct_analysis.pngCategory-level revenue and margin breakdowncustomer_segments.pngSegment-wise customer value distribution
 
